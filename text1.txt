@@ -1,0 +1,1 @@
+& C:/Users/User/AppData/Local/Programs/Python/Python36/python.exe "c:/Users/User/Desktop/IT/II четверть/5 Python/DZ5/1.py"
